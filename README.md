@@ -1,9 +1,11 @@
-# 🫁 Lung-Cancer Predict
+# 🫁 Lung Cancer Predict
 
 ## 📝 Overview
-The Apple-Inspired AI Calculator is an innovative project that utilizes OpenCV and Google’s Gemini AI to solve mathematical problems of any complexity. The user can draw the math problem on the screen, and the AI model will interpret the visual input to provide a detailed solution. This project is similar to the Apple iPad calculator but leverages advanced AI technology for enhanced functionality and accuracy.
+
+The Lung-Cancer Predict project is an innovative app with a graphical user interface (GUI) that utilizes machine learning algorithms to predict the risk level of lung cancer in patients. The user can input relevant medical data, and the machine learning model will analyze the information to provide a detailed risk assessment.
 
 ## ✨ Features
+
 - ✍️ **Draw Math Problems:** Use your finger to draw any mathematical problem on the screen.
 - 🖱️ **Move Around:** Move the pointer around the screen by lifting two fingers.
 - 🗑️ **Reset Canvas:** Erase the current drawing by lifting the thumb.
@@ -11,6 +13,7 @@ The Apple-Inspired AI Calculator is an innovative project that utilizes OpenCV a
 - 📊 **Detailed Solutions:** The model interprets the drawing and displays a detailed solution.
 
 ## 📋 Requirements
+
 - 🐍 **Python 3.x**
 - 👁️ **OpenCV 4.8.0.74**
 - ➗ **Numpy 1.23.5**
@@ -22,18 +25,22 @@ The Apple-Inspired AI Calculator is an innovative project that utilizes OpenCV a
 ## 🚀 Installation
 
 1. **Obtain the Gemini API Key:**
+
    - Visit [AI Studio](https://aistudio.google.com) to get your Gemini API key.
 
 2. **Install Dependencies:**
+
    - Run the following command to install the required packages:
      ```bash
      pip install -r requirements.txt
      ```
 
 3. **Configure the API Key:**
+
    - Add your API key to `videoapp/view.py`.
 
 4. **Run the Web Application:**
+
    - Start the web server with:
      ```bash
      python manage.py runserver
@@ -51,6 +58,7 @@ Check out the demo video to see the Virtual AI Calculator in action:60k+ reactio
 ## 🎨 Drawing Rules
 
 To interact with the calculator, follow these drawing rules:
+
 - ✍️ Draw math problems only when the pointer finger is up.
 - 🖱️ Move around the screen by lifting two fingers.
 - 🗑️ Reset/erase the canvas by lifting the thumb.
@@ -61,6 +69,7 @@ The AI model will then interpret the drawing and display a detailed solution.
 ## 📚 Learning Resources
 
 To better understand the technologies used in this project, you can explore the following resources:
+
 - **OpenCV Documentation:** [OpenCV Documentation](https://docs.opencv.org/)
 - **OpenCV Detailed Video:** [OpenCV Video](https://youtu.be/oXlwWbU8l2o?si=8UFFRz7uRiHsULZr)
 - **Air Canvas Setup:** [Air Canvas](https://youtu.be/T7sjrWc4QEc?si=nHRhGhyf86rPtbO3)
@@ -76,5 +85,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## 🙏 Acknowledgments
 
 - Thanks to everyone who has supported this project.
-
-
