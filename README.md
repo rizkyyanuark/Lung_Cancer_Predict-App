@@ -6,21 +6,23 @@ The Lung-Cancer Predict project is an innovative app with a graphical user inter
 
 ## ✨ Features
 
-- ✍️ **Draw Math Problems:** Use your finger to draw any mathematical problem on the screen.
-- 🖱️ **Move Around:** Move the pointer around the screen by lifting two fingers.
-- 🗑️ **Reset Canvas:** Erase the current drawing by lifting the thumb.
-- 📤 **Send to AI Model:** Send the visual drawing to the model by lifting the little finger.
-- 📊 **Detailed Solutions:** The model interprets the drawing and displays a detailed solution.
+- 🔮 Predict Cancer Risk: Input patient data and let the machine learning model predict the lung cancer risk level.
+- ⏳ Patient Queue Priority: Manage patient appointments efficiently with a queue priority system based on urgency.
+- 📊 Patient Count Graph: View a real-time graph displaying the number of patients for easy tracking and analysis.
+- 🎨 Simple UI: Navigate easily with a clean, user-friendly interface designed for smooth operation.
+- 🌙 Dark Mode: Enable dark mode for a comfortable user experience during long working hours.
 
 ## 📋 Requirements
 
-- 🐍 **Python 3.x**
-- 👁️ **OpenCV 4.8.0.74**
-- ➗ **Numpy 1.23.5**
-- 🖼️ **Pillow 9.3.0**
-- 🤖 **Google Generative AI 0.1.0**
-- 🛠️ **CVZone 1.5.6**
-- 🌐 **Django 4.2**
+- 🐍 Python 3.x
+- 📦 tkinter 8.6
+- 📊 openpyxl 3.1.2
+- 🖼️ PIL 10.3.0
+- 📈 pandas 2.2.2
+- ➗ numpy 1.26.4
+- 🤖 scikit-learn 1.4.0
+- 🛠️ joblib 1.4.0
+- 🌲forest theme for ttk v1.0
 
 ## 🚀 Installation
 
@@ -54,17 +56,6 @@ The Lung-Cancer Predict project is an innovative app with a graphical user inter
 Check out the demo video to see the Virtual AI Calculator in action:60k+ reactions
 
 [Watch the Demo on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7221422183175139328/)
-
-## 🎨 Drawing Rules
-
-To interact with the calculator, follow these drawing rules:
-
-- ✍️ Draw math problems only when the pointer finger is up.
-- 🖱️ Move around the screen by lifting two fingers.
-- 🗑️ Reset/erase the canvas by lifting the thumb.
-- 📤 Send the visual drawing to the AI model by lifting the little finger.
-
-The AI model will then interpret the drawing and display a detailed solution.
 
 ## 📚 Learning Resources
 
