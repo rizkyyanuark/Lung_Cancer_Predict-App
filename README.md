@@ -35,7 +35,7 @@ The Lung-Cancer Predict project is an innovative app with a graphical user inter
 
 2. **Configure the API Key:**
 
-   - Add your API key to `videoapp/view.py`.
+   - Add file Forest Theme from repo Forest ttk Theme.
 
 3. **Run the Web Application:**
 
