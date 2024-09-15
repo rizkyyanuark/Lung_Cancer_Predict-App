@@ -69,3 +69,32 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## 🙏 Acknowledgments
 
 - Thanks to everyone who has supported this project.
+
+## Teams
+
+<div align="center">
+  <table style="margin: auto;">
+    <tr>
+      <td align="center">
+  <a href="https://github.com/rizkyyanuark">
+    <img src="https://avatars.githubusercontent.com/u/82692777?v=4" width="100px;" alt="Rizkyyk"/>
+  </a>
+  <br />
+  <sub>Rizky</sub>
+</td>
+<td align="center">
+  <a href="https://github.com/alivianay">
+    <img src="https://avatars.githubusercontent.com/u/171920342?v=4" width="100px;" alt="Alivia"/>
+  </a>
+  <br />
+  <sub>Alivia</sub>
+</td>
+<td align="center">
+  <a href="https://github.com/mekel16">
+    <img src="https://avatars.githubusercontent.com/u/133485088?v=4" width="100px;" alt="Michael"/>
+  </a>
+  <br />
+  <sub>Michael</sub>
+</td>
+  </table>
+</div>
