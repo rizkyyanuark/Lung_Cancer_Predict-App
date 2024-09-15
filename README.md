@@ -26,23 +26,29 @@ The Lung-Cancer Predict project is an innovative app with a graphical user inter
 
 ## 🚀 Installation
 
-1. **Install Dependencies:**
+Follow these steps to install this project on your machine:
 
-   - Run the following command to install the required packages:
-     ```bash
-     pip install -r requirements.txt
-     ```
+1. **Clone repository:**
+   - Copy the repository to your local machine:
+    ```bash
+    git clone https://github.com/rizkyyanuark/Lung_Cancer_Predict-App.git
+    ```
 
-2. **Configure the API Key:**
+3. **Navigate to the directory:**
+   - Change to the project folder.
+    ```bash
+    cd Lung_Cancer_Predict-App
+    ```
 
-   - Add file Forest Theme from repo Forest ttk Theme.
-
-3. **Run the Web Application:**
-
-   - Start the web server with:
-     ```bash
-     main.py
-     ```
+5. **Install the required dependencies:**
+    - If using `npm`:
+        ```bash
+        npm install
+        ```
+    - If using `pip`:
+        ```bash
+        pip install -r requirements.txt
+        ```
 
 
 
