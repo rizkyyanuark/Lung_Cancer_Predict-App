@@ -41,11 +41,9 @@ The Lung-Cancer Predict project is an innovative app with a graphical user inter
 
    - Start the web server with:
      ```bash
-     python manage.py runserver
+     main.py
      ```
 
-4. **Access the Web Application:**
-   - Open your web browser and navigate to [http://127.0.0.1:8000](http://127.0.0.1:8000) to use the app.
 
 
 ## 🤝 Contribution
