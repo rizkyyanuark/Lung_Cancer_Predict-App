@@ -9,7 +9,7 @@ The Lung-Cancer Predict project is an innovative app with a graphical user inter
 - 🔮 Predict Cancer Risk: Input patient data and let the machine learning model predict the lung cancer risk level.
 - ⏳ Patient Queue Priority: Manage patient appointments efficiently with a queue priority system based on urgency.
 - 📊 Patient Count Graph: View a real-time graph displaying the number of patients for easy tracking and analysis.
-- 🎨 Simple UI: Navigate easily with a clean, user-friendly interface designed for smooth operation.
+- 🎨 Beautiful Design: Aesthetic and modern [Forest-Inspired Theme](https://github.com/rdbende/Forest-ttk-theme)
 - 🌙 Dark Mode: Enable dark mode for a comfortable user experience during long working hours.
 
 ## 📋 Requirements
@@ -22,7 +22,6 @@ The Lung-Cancer Predict project is an innovative app with a graphical user inter
 - ➗ numpy 1.26.4
 - 🤖 scikit-learn 1.4.0
 - 🛠️ joblib 1.4.0
-- 🌲forest theme for ttk v1.0
 
 ## 🚀 Installation
 
@@ -49,6 +48,12 @@ Follow these steps to install this project on your machine:
         ```bash
         pip install -r requirements.txt
         ```
+6. ** Run the demo:**
+   ```bash
+   main.py```
+
+## 🎥 Demo Video
+Check out the full demo video to see User Interface:
 
 
 
