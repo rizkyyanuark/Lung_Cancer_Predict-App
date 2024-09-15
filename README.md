@@ -50,7 +50,8 @@ Follow these steps to install this project on your machine:
         ```
 6. ** Run the demo:**
    ```bash
-   main.py```
+   main.py
+   ```
 
 ## 🎥 Demo Video
 Check out the full demo video to see User Interface:
