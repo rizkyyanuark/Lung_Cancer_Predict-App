@@ -26,44 +26,27 @@ The Lung-Cancer Predict project is an innovative app with a graphical user inter
 
 ## 🚀 Installation
 
-1. **Obtain the Gemini API Key:**
-
-   - Visit [AI Studio](https://aistudio.google.com) to get your Gemini API key.
-
-2. **Install Dependencies:**
+1. **Install Dependencies:**
 
    - Run the following command to install the required packages:
      ```bash
      pip install -r requirements.txt
      ```
 
-3. **Configure the API Key:**
+2. **Configure the API Key:**
 
    - Add your API key to `videoapp/view.py`.
 
-4. **Run the Web Application:**
+3. **Run the Web Application:**
 
    - Start the web server with:
      ```bash
      python manage.py runserver
      ```
 
-5. **Access the Web Application:**
+4. **Access the Web Application:**
    - Open your web browser and navigate to [http://127.0.0.1:8000](http://127.0.0.1:8000) to use the app.
 
-## 🎥 Demo Video
-
-Check out the demo video to see the Virtual AI Calculator in action:60k+ reactions
-
-[Watch the Demo on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7221422183175139328/)
-
-## 📚 Learning Resources
-
-To better understand the technologies used in this project, you can explore the following resources:
-
-- **OpenCV Documentation:** [OpenCV Documentation](https://docs.opencv.org/)
-- **OpenCV Detailed Video:** [OpenCV Video](https://youtu.be/oXlwWbU8l2o?si=8UFFRz7uRiHsULZr)
-- **Air Canvas Setup:** [Air Canvas](https://youtu.be/T7sjrWc4QEc?si=nHRhGhyf86rPtbO3)
 
 ## 🤝 Contribution
 
