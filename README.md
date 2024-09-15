@@ -48,7 +48,7 @@ Follow these steps to install this project on your machine:
         ```bash
         pip install -r requirements.txt
         ```
-6. ** Run the demo:**
+6. **Run the demo:**
    ```bash
    main.py
    ```
