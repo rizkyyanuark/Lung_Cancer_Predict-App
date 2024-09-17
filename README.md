@@ -35,9 +35,8 @@ Follow these steps to install this project on your machine:
 2. **Create a virtual environment with the name sudokuenv.**
    * Windows
    ```bash
-   virtualenv sudokuenv
-   cd sudokuenv/Scripts
-   activate
+   python -m venv sudokuenv
+   cd sudokuenv/bin/activate
    ```
    * Linux:
    ```bash
