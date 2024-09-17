@@ -27,13 +27,29 @@ The Lung-Cancer Predict project is an innovative app with a graphical user inter
 
 Follow these steps to install this project on your machine:
 
-1. **Clone repository:**
+1. **create venv**
+   - I recommend using [virtualenv](https://virtualenv.pypa.io/en/latest/). Download virtualenv by opening a terminal and typing:
+    ```bash
+    pip install virtualenv
+    ```
+2. **Create a virtual environment with the name sudokuenv.**
+   * Windows
+   ```bash
+   virtualenv sudokuenv
+   cd sudokuenv/Scripts
+   activate
+   ```
+   * Linux:
+   ```bash
+   source sudokuenv/bin/activate
+    ```
+3. **Clone repository:**
    - Copy the repository to your local machine:
     ```bash
     git clone https://github.com/rizkyyanuark/Lung_Cancer_Predict-App.git
     ```
 
-3. **Navigate to the directory:**
+4. **Navigate to the directory:**
    - Change to the project folder.
     ```bash
     cd Lung_Cancer_Predict-App
